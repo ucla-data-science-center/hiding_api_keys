@@ -1,0 +1,8 @@
+config.py
+config.json
+config.yml
+*config.py
+__init__.py
+__pycache__
+.ipynb_checkpoints
+Untitled*.ipynb

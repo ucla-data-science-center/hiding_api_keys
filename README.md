@@ -15,5 +15,8 @@ Untitled*.ipynb
 ```
 
 ## Articles Referenced:
-- put list here
+- *How to Hide Your API keys with Python:* https://medium.com/black-tech-diva/hide-your-api-keys-7635e181a06c
+- *How to Hide an API Key with Python:*  https://rapidapi.com/blog/how-to-hide-an-api-key-with-python/
+- *Configuration Files in Python:* https://martin-thoma.com/configuration-files-in-python/
+- *How to Hide Your API Keys in Python:* https://towardsdatascience.com/how-to-hide-your-api-keys-in-python-fb2e1a61b0a0
 

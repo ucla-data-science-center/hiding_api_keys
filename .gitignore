@@ -1,7 +1,10 @@
-config.py
-config.json
-config.yml
-*config.py
+#  Note: In real life the config files WOULD be ignored.  
+#        Here they will be added as examples
+
+# config.py
+# config.json
+# config.yml
+# *config.py
 __init__.py
 __pycache__
 .ipynb_checkpoints

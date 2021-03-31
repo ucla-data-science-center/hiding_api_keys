@@ -1,0 +1,8 @@
+ {
+   "dataverse_production": {
+        "api_token": "dataverse_production"
+    },
+    "dataverse_test": {
+        "api_token": "dataverse_test"
+    }
+}

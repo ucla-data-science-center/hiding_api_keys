@@ -15,6 +15,8 @@ __init__.py
 __pycache__
 .ipynb_checkpoints
 Untitled*.ipynb
+
+api_security.ipynb <- jupyter notebook with examples
 ```
 
 ## Articles Referenced:

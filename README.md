@@ -2,7 +2,10 @@
 examples of how to hide api keys, examples using python import, json, yaml and environmental variables
 
 ## using .gitignore
-Note: my example has the config files commented out so I can include them here.  Would be ignored in real usage
+Note: my example has the config files commented out so I can include them here.  Would be ignored in real usage.
+
+## Note:
+This example assumes the script and json files with the keys and/or tokens are all in the same directory. 
 ```
 config.py   <- these are the config files that hold the api keys or tokens
 config.json
